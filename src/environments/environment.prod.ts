@@ -8,6 +8,6 @@ export const environment = {
     storageBucket: "punchi-hapana.appspot.com",
     messagingSenderId: "291566942774",
     appId: "1:291566942774:web:d57e7b180ee0dcf95b7697",
-    measurementId: "G-SE9NKFGLLG"
+    measurementId: "G-SE9NKFGLLG
   }
 };
